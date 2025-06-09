@@ -1,10 +1,5 @@
 # init-pwnlog
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="Assets/banner.png" alt="init-pwnlog banner" width="100%">
-</p>
-
 ## My Cybersecurity Journey
 
 Welcome to my cybersecurity learning repository! This is a personal log and knowledge base documenting my journey from the very foundations of computer science and IT to advanced cybersecurity topics with a focus on ethical hacking.
