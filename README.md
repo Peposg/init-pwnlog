@@ -8,16 +8,16 @@ Welcome to my cybersecurity learning repository! This is a personal log and know
 
 My learning journey is structured into clear phases:
 
-1. ** Computer Science Foundations**
+1. **Computer Science Foundations**
    Basics of programming, data structures, algorithms, operating systems, and computer networks.
 
-2. ** IT Fundamentals**
+2. **IT Fundamentals**
    Hardware, software, networking, system administration, virtualization, and scripting essentials.
 
-3. ** Cybersecurity Fundamentals** 
+3. **Cybersecurity Fundamentals** 
    Core security concepts, threat modeling, cryptography, risk management, blue team practices, and more.
 
-4. ** Ethical Hacking Specialization** 
+4. **Ethical Hacking Specialization** 
    Focused hands-on practice with penetration testing, red teaming, bug bounty methodologies, tools (e.g., Burp Suite, Metasploit), and certifications (e.g., CEH, OSCP prep).
 
 ## Documentation Style
