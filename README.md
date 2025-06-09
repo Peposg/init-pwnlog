@@ -39,5 +39,4 @@ This is a long-term learning roadmap. I’ll be updating regularly with new cont
 - ✅ To reinforce my learning through documentation
 - ✅ To help others who are starting a similar journey
 - ✅ To showcase my progress and skills over time
-:
 
