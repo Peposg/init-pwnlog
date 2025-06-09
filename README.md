@@ -2,7 +2,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="banner.png" alt="init-pwnlog banner" width="100%">
+  <img src="Assets/banner.png" alt="init-pwnlog banner" width="100%">
 </p>
 
 ## My Cybersecurity Journey
