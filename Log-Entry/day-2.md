@@ -6,7 +6,7 @@
 
 ### Tracking
 - Introduction to Cybersecurity by Ciso Networking Academy
-![Screenshot of the test before starting of this course](Records/Screenshot From 2025-06-11 17-05-00.png)
+![Alt text](Records/Screenshot From 2025-06-11 17-05-00.png)
 
 ### Notes
 - Any important notes or thoughts.
