@@ -6,8 +6,7 @@
 
 ### Tracking
 - Introduction to Cybersecurity by Ciso Networking Academy
-
-![Alt text](Log-Entry/Records/Progress-1)
+![](https://github.com/Peposg/init-pwnlog/blob/main/Log-Entry/Records/starting-point.png)
 
 ### Notes
 - Any important notes or thoughts.
