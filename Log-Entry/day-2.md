@@ -7,7 +7,7 @@
 ### Tracking
 - Introduction to Cybersecurity by Ciso Networking Academy
 
-![Alt text](Log-Entry/Records/'Screenshot From 2025-06-11 17-05-00.png')
+![Alt text](Log-Entry/Records/Progress-1)
 
 ### Notes
 - Any important notes or thoughts.
