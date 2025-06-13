@@ -1,7 +1,7 @@
 ## 2025-06-11 (Wednesday)
 
 ### Tasks Completed
-- Module 2 of Introduction to cybersecurity
+- Module 1 of Introduction to cybersecurity
 
 ### Tracking
 - Introduction to Cybersecurity by Ciso Networking Academy
