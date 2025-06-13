@@ -1,20 +1,19 @@
 ## 2025-06-11 (Wednesday)
 
 ### Tasks Completed
-- Task 1
-- Task 2
+- Module 2 of Introduction to cybersecurity
 
 ### Tracking
 - Introduction to Cybersecurity by Ciso Networking Academy
 ![](https://github.com/Peposg/init-pwnlog/blob/main/Log-Entry/Records/starting-point.png)
 
 ### Notes
-- Any important notes or thoughts.
+- none, wrote them in my book
 
 ### Reflections
-- What went well?
-- What could be improved?
+- i was suprised by the number of things i already know from this, but i have more to learn
+- it was honestly fun.
 
 ### Tomorrow’s Goals
-- Goal 1
-- Goal 2
+- try to finish it off completely the course
+- start with tryhackme- linux commands
