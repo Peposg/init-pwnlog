@@ -1,4 +1,4 @@
-## 2025-06-13 (Day)
+## 2025-06-13 (Friday)
 
 ### Tasks Completed
 - Introduction to Cybersecurity MOD 3
