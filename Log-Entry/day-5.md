@@ -1,4 +1,4 @@
-## 2025-06-14 (Day)
+## 2025-06-14 (Saturday)
 
 ### Tasks Completed
 - Introduction to Cybersecurity
