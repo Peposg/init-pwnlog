@@ -1,4 +1,4 @@
-## 2025-06-15 (Day)
+## 2025-06-15 (Sunday)
 
 ### Tasks Completed
 - None (I started with my gate preparation)
